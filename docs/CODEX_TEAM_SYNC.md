@@ -9,7 +9,7 @@ This repo is meant to be shared by three computers.
 3. Run the bootstrap script on each computer:
 
 ```powershell
-.\scripts\bootstrap.ps1 -RepoUrl "https://github.com/<owner>/<repo>.git"
+.\scripts\bootstrap.ps1 -RepoUrl "https://github.com/HAO843/-.git"
 ```
 
 ## Daily workflow
@@ -34,4 +34,3 @@ git push -u origin HEAD
 git checkout main
 git pull --rebase origin main
 ```
-
