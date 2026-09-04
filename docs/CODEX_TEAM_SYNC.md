@@ -12,6 +12,8 @@ This repo is meant to be shared by three computers.
 .\scripts\bootstrap.ps1 -RepoUrl "https://github.com/HAO843/-.git"
 ```
 
+For a Codex-specific handoff prompt, use [CODEX_TEAM_BOOTSTRAP.md](CODEX_TEAM_BOOTSTRAP.md).
+
 ## Daily workflow
 
 ```powershell
